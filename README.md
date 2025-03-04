@@ -44,10 +44,6 @@ This repository contains a **basic VLAN configuration project** created using **
 
 ---
 
-## 📷 Topology Snapshot
-*(You can add a screenshot of the topology here if you want)*
-
----
 
 ## ✨ Author
 - **Your Name** (Add your GitHub profile link if you want)
